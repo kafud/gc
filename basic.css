@@ -1,0 +1,103 @@
+@font-face {
+    font-family: Pixelout;
+    src: url(Pixelout.ttf);
+}
+@font-face {
+    font-family: CyberPunk;
+    src: url(CyberpunkWaifus.ttf);
+}
+@font-face {
+    font-family: VT323;
+    src: url(VT323-Regular.ttf);
+}
+body{
+    background-color: rgba(0, 0, 0, 0.955);
+    margin: 0%;
+    padding: 0%;
+}
+
+
+header{
+    font-family: "Pixelout";
+    color: rgb(42, 232, 115);
+    font-size: 60px;
+    letter-spacing: 3px;
+    margin: 0%;
+    padding: 0%;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+footer{
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: "VT323";
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+p{
+    margin: 0%;
+    padding: 0%;
+    margin-top: 8px;
+    line-height: 25px;
+}
+
+a{
+    color:  #fb85ce ;
+    text-decoration-line: none;
+}
+
+h3{
+    color: rgb(42, 232, 115); ;
+}
+
+.content{
+    color:white;
+    font-family: "CyberPunk";
+    width: 80%;
+    left:10%;
+    position: relative;
+    font-size: 18px;
+
+}
+
+.serverbox{
+    margin-left: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+}
+
+.push_in{
+    margin-left: 4%;
+    padding-bottom: 5px;
+}
+
+
+.list{
+    width: 5%;
+}
+
+.pink{
+    color: #fb85ce;
+}
+
+.orange{
+    color: rgb(255, 133, 89);
+}
+
+.footer_background{
+background-color: rgb(14, 14, 14);
+}
+
+.blue{
+    color: #05D9FF;
+}
+
+.green{
+    color: rgb(42, 232, 115);
+}

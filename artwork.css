@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Pixelout;
+    src: url(/directory/fonts/Pixelout.ttf);
+}
+@font-face {
+    font-family: CyberPunk;
+    src: url(/directory/fonts/CyberpunkWaifus.ttf);
+}
+@font-face {
+    font-family: VT323;
+    src: url(/directory/fonts/VT323-Regular.ttf);
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.955);
+    margin: 0%;
+    padding: 0%;
+    background-image: url(/directory/content/animated/BGstarani.gif);
+}
+
+header{
+    font-family: "Pixelout";
+    color: rgb(42, 232, 115);
+    font-size: 60px;
+    letter-spacing: 3px;
+    margin: 0%;
+    padding: 0%;
+    margin-left: 5%;
+    padding-bottom: 2%;
+    margin-top: 1%;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    color: rgb(42, 232, 115);
+    text-decoration-line: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    width: 80%;
+    left: 10%;
+    position: relative;
+    font-family: CyberPunk;
+    color: white;
+}
