@@ -1,21 +1,21 @@
 @font-face {
     font-family: Pixelout;
-    src: url(/directory/fonts/Pixelout.ttf);
+    src: url(Pixelout.ttf);
 }
 @font-face {
     font-family: CyberPunk;
-    src: url(/directory/fonts/CyberpunkWaifus.ttf);
+    src: url(CyberpunkWaifus.ttf);
 }
 @font-face {
     font-family: VT323;
-    src: url(/directory/fonts/VT323-Regular.ttf);
+    src: url(VT323-Regular.ttf);
 }
 
 body{
     background-color: rgba(0, 0, 0, 0.955);
     margin: 0%;
     padding: 0%;
-    background-image: url(/directory/content/animated/BGstarani.gif);
+    background-image: url(BGstarani.gif);
 }
 
 header{
